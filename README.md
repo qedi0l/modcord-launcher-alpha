@@ -1,6 +1,6 @@
 #LAUNCHER DETAILS
 
-This launcher is the part of Modcord-project
+This launcher is part of Modcord-project
 
 Components: Python 3.10, Eel (web ui), batchfile 
 
