@@ -1,4 +1,4 @@
-#LAUNCHER DETAILS
+# LAUNCHER DETAILS
 
 This launcher is part of Modcord-project
 
