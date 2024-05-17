@@ -164,6 +164,7 @@ def check_game_status():
 			set_status("Runned")
 		else:
 			set_status("Closed")
+			break
 
 
 def start_game(season):
