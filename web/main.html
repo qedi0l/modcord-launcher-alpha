@@ -36,13 +36,14 @@
 
 <script type="text/javascript">
 
+    setNickname();
+        
     jQuery('#LBut').on('click', function(){
         launch();
     }); 
     async function launch(){
         var Nickname = document.getElementById('Nickname').value;
         var Season = document.getElementById('season_sel').value;
-        setNickname();
         eel.launch(Nickname,Season);
     }
 
